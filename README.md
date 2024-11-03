@@ -25,7 +25,7 @@ Iterate through each word in the tokenized text.
 •	Print the unique sets of synonyms and antonyms.
 
 ## Program:
-
+```python
 import nltk
 from nltk.corpus import wordnet
 
@@ -65,7 +65,7 @@ for sentence in sentences:
         synonyms = get_synonyms(verb)
         print(f"Verb: {verb}")
         print(f"Synonyms: {', '.join(synonyms)}\n")
-
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/30214ce6-d046-4f71-81e8-1be2a5bc9143)
