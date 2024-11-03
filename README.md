@@ -1,7 +1,7 @@
 <H4>K.M.Swetha</H4>
 <H4>212221240055</H4>
 <H4>EX. NO.6</H4>
-<H4>DATE: 21.10.24</H4>
+<H4>DATE: 1.11.24</H4>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## Aim: 
